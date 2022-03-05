@@ -1,0 +1,16 @@
+0.0.0.0 analytics.snapchat.com
+0.0.0.0 app-analytics.snapchat.com
+0.0.0.0 usc.adserver.snapads.com
+0.0.0.0 snapads.com
+0.0.0.0 app-analytics-v2.snapchat.com
+0.0.0.0 asia-southeast1-gcp.api.snapchat.com
+0.0.0.0 pica.aeonlucid.com
+0.0.0.0 Us-central1-gcp.api.snapchat.com
+0.0.0.0 Usc.adserver.snapads.com
+0.0.0.0 Geofilters-api.snapchat.com
+0.0.0.0 Cognac-prod.appspot.com
+0.0.0.0 Ase.adserver.snapads.com
+0.0.0.0 Tr.snapchat.com
+0.0.0.0 Loc.sc-jpl.com
+0.0.0.0 Storage.googleapis.com
+0.0.0.0 Snapchat-proxy.appspot.com
